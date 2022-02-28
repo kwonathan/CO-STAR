@@ -19,7 +19,7 @@ For each model, download the entire folder and place the folder in your working 
 Make sure to change the `CS_MODEL_PATH` and `SBF_MODEL_PATH` variables in `demo.py` to their corresponding directories (and make any hyperparameter adjustments) before running the models. If you are not sure which CO-STAR model to run, try the CO-STAR-sc model first. Further details are available in the paper above.
 
 ## Training and Data Files
-The CO-STAR models have been trained with the data file `./data/full_data_approved.concat.v2.csv` which has been annotated as explained in the paper above. The models can then be evaluated with development and test data sets under `./data/SBIC.v2/SBIC.v2.dev.csv` and `./data/SBIC.v2/SBIC.v2.tst.csv` respectively.
+The CO-STAR models have been trained with the data file `./data/CO-STAR.trn.csv` which has been annotated as explained in the paper above. The models can then be evaluated with development and test data sets under `./data/SBIC.v2/SBIC.v2.dev.csv` and `./data/SBIC.v2/SBIC.v2.tst.csv` respectively.
 
 The SBF-GPT2 model has been trained based on the paper "Social Bias Frames: Reasoning about Social and Power Implications of Language" by Sap et al. which is available at https://aclanthology.org/2020.acl-main.486/. The SBIC.v2 data set has also been annotated and provided by Sap et al. and full details can be found in the paper.
 

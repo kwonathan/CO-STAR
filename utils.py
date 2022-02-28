@@ -15,7 +15,7 @@ from transformers import GPT2Config
 
 # file paths
 
-DATA_TRN_PATH = './data/full_data_approved.concat.v2.csv'
+DATA_TRN_PATH = './data/CO-STAR.trn.csv'
 DATA_DEV_PATH = './data/SBIC.v2/SBIC.v2.dev.csv'
 DATA_TST_PATH = './data/SBIC.v2/SBIC.v2.tst.csv'
 
