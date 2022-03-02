@@ -1,6 +1,10 @@
 # CO-STAR
 Code and Data for the arXiv paper "CO-STAR: Conceptualisation of Stereotypes for Analysis and Reasoning" available at https://arxiv.org/abs/2112.00819
 
+## Installation
+Run the following command to install the necessary libraries:
+`pip install -r requirements.txt`
+
 ## Quick Start
 Pre-trained models can be downloaded from the following links:
 
