@@ -3,6 +3,7 @@ Code and Data for the arXiv paper "CO-STAR: Conceptualisation of Stereotypes for
 
 ## Installation
 Run the following command to install the necessary libraries:
+
 `pip install -r requirements.txt`
 
 ## Quick Start
